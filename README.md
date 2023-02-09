@@ -1,7 +1,7 @@
 # **About me**
 ---
 - ## Software Engineering Student
-- ## Aiming to be a Data Analyst
+- ## Aiming to be a Data Scientist
 ## 📚: Studying now:
   - ### *Data Structures*
   - ### *Python*
